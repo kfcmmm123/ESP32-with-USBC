@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CHIP_PU Pin=C17-2
+Removed Pin From Net: NetName=CHIP_PU Pin=SW2-1
+Removed Pin From Net: NetName=CHIP_PU Pin=SW2-2
+Added Pin To Net: NetName=BTN_GPIO0 Pin=C17-2
+Added Pin To Net: NetName=BTN_GPIO0 Pin=SW2-1
+Added Pin To Net: NetName=BTN_GPIO0 Pin=SW2-2

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BTN_GPIO0 Pin=Q2-2
+Removed Pin From Net: NetName=DTR_FTDI Pin=Q2-3
+Added Pin To Net: NetName=DTR_FTDI Pin=Q2-2
+Added Pin To Net: NetName=BTN_GPIO0 Pin=Q2-3
+Change Net Color : Old Net Color=Navy New Net Color=Default
