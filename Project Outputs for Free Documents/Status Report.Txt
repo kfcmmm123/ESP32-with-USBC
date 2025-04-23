@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ESP32 with USBC PCB V1I1.PcbDoc]
+   Generated File[ESP32 with USBC PCB V1I1-RoundHoles.TXT]
+   Generated File[ESP32 with USBC PCB V1I1-SlotHoles.TXT]
+   Generated File[ESP32 with USBC PCB V1I1.LDP]
+   Generated File[ESP32 with USBC PCB V1I1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:50:42 PM On 2025-04-23
